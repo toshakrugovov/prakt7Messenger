@@ -1,0 +1,51 @@
+﻿<Window x:Class="PracticalWork6.AdminWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PracticalWork6"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterOwner"
+        Title="AdminWindow" Height="450" Width="835" Background="LightGreen">
+    <Grid>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto" MinWidth="65"/>
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0" Grid.Column="0" Margin="0,0,0,356" Grid.RowSpan="2">
+
+            <TextBlock Text="Users" Background="DarkViolet"   FontWeight="Bold" Margin="5" FontFamily="Algerian"/>
+
+            <ListBox x:Name="UserList" Background="Gray"  Margin="5"/>
+
+        </StackPanel>
+
+        <Grid
+            Grid.Row="1"
+            Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+
+            <ListView x:Name="ChatLog"  Grid.Row="0" Background="GreenYellow" Grid.Column="0" Margin="15" FontWeight="Bold"/>
+
+
+            <StackPanel Grid.Row="1" Orientation="Horizontal" Margin="5">
+
+                <TextBox x:Name="MessageInput" TextWrapping="Wrap" Background="ForestGreen" Margin="0,0,10,0" Width="618" Height="100" VerticalScrollBarVisibility="Auto"/>
+                <Button x:Name="SendButton"  Background="DarkGreen" Click="SendButton_Click" Content="Send" Margin="5" Padding="10,5" Width="79" FontWeight="Bold" FontFamily="Algerian" Height="60"/>
+            </StackPanel>
+        </Grid>
+
+        <Button x:Name="DiconnectButton" Background="Red" Click="DisconnectButton_Click" Grid.Row="2" Grid.Column="1" Content="Disconnect" Margin="652,5,0,5" HorizontalAlignment="Left" Width="100" FontWeight="Bold" FontFamily="Algerian"/>
+        <Button x:Name="LogsButton" Background="Yellow"  Click="LogsButton_Click" Grid.Row="2" Grid.Column="1" Content="Logs" Margin="546,5,0,5" HorizontalAlignment="Left" Width="100" FontWeight="Bold" FontFamily="Algerian"/>
+    </Grid>
+</Window>

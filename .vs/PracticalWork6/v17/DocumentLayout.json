@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Downloads\\Telegram Desktop\\PracticalWork6-WPF-main\\PracticalWork6-WPF-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8704AC74-BFBB-4EC9-B318-299A9E5C5077}|PracticalWork6.csproj|c:\\users\\user\\downloads\\telegram desktop\\practicalwork6-wpf-main\\practicalwork6-wpf-main\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8704AC74-BFBB-4EC9-B318-299A9E5C5077}|PracticalWork6.csproj|solutionrelative:adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8704AC74-BFBB-4EC9-B318-299A9E5C5077}|PracticalWork6.csproj|c:\\users\\user\\downloads\\telegram desktop\\practicalwork6-wpf-main\\practicalwork6-wpf-main\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8704AC74-BFBB-4EC9-B318-299A9E5C5077}|PracticalWork6.csproj|solutionrelative:properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|PracticalWork6||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8704AC74-BFBB-4EC9-B318-299A9E5C5077}|PracticalWork6.csproj|C:\\Users\\User\\Downloads\\Telegram Desktop\\PracticalWork6-WPF-main\\PracticalWork6-WPF-main\\userwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8704AC74-BFBB-4EC9-B318-299A9E5C5077}|PracticalWork6.csproj|solutionrelative:userwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8704AC74-BFBB-4EC9-B318-299A9E5C5077}|PracticalWork6.csproj|C:\\Users\\User\\Downloads\\Telegram Desktop\\PracticalWork6-WPF-main\\PracticalWork6-WPF-main\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8704AC74-BFBB-4EC9-B318-299A9E5C5077}|PracticalWork6.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8704AC74-BFBB-4EC9-B318-299A9E5C5077}|PracticalWork6.csproj|C:\\Users\\User\\Downloads\\Telegram Desktop\\PracticalWork6-WPF-main\\PracticalWork6-WPF-main\\logwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8704AC74-BFBB-4EC9-B318-299A9E5C5077}|PracticalWork6.csproj|solutionrelative:logwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8704AC74-BFBB-4EC9-B318-299A9E5C5077}|PracticalWork6.csproj|C:\\Users\\User\\Downloads\\Telegram Desktop\\PracticalWork6-WPF-main\\PracticalWork6-WPF-main\\tcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8704AC74-BFBB-4EC9-B318-299A9E5C5077}|PracticalWork6.csproj|solutionrelative:tcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8704AC74-BFBB-4EC9-B318-299A9E5C5077}|PracticalWork6.csproj|C:\\Users\\User\\Downloads\\Telegram Desktop\\PracticalWork6-WPF-main\\PracticalWork6-WPF-main\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8704AC74-BFBB-4EC9-B318-299A9E5C5077}|PracticalWork6.csproj|solutionrelative:adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8704AC74-BFBB-4EC9-B318-299A9E5C5077}|PracticalWork6.csproj|C:\\Users\\User\\Downloads\\Telegram Desktop\\PracticalWork6-WPF-main\\PracticalWork6-WPF-main\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8704AC74-BFBB-4EC9-B318-299A9E5C5077}|PracticalWork6.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8704AC74-BFBB-4EC9-B318-299A9E5C5077}|PracticalWork6.csproj|C:\\Users\\User\\Downloads\\Telegram Desktop\\PracticalWork6-WPF-main\\PracticalWork6-WPF-main\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8704AC74-BFBB-4EC9-B318-299A9E5C5077}|PracticalWork6.csproj|solutionrelative:message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8704AC74-BFBB-4EC9-B318-299A9E5C5077}|PracticalWork6.csproj|C:\\Users\\User\\Downloads\\Telegram Desktop\\PracticalWork6-WPF-main\\PracticalWork6-WPF-main\\userwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8704AC74-BFBB-4EC9-B318-299A9E5C5077}|PracticalWork6.csproj|solutionrelative:userwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8704AC74-BFBB-4EC9-B318-299A9E5C5077}|PracticalWork6.csproj|C:\\Users\\User\\Downloads\\Telegram Desktop\\PracticalWork6-WPF-main\\PracticalWork6-WPF-main\\logwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8704AC74-BFBB-4EC9-B318-299A9E5C5077}|PracticalWork6.csproj|solutionrelative:logwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8704AC74-BFBB-4EC9-B318-299A9E5C5077}|PracticalWork6.csproj|c:\\users\\user\\downloads\\telegram desktop\\practicalwork6-wpf-main\\practicalwork6-wpf-main\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 442,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PracticalWork6",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Telegram Desktop\\PracticalWork6-WPF-main\\PracticalWork6-WPF-main\\PracticalWork6.csproj",
+              "RelativeDocumentMoniker": "PracticalWork6.csproj",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Telegram Desktop\\PracticalWork6-WPF-main\\PracticalWork6-WPF-main\\PracticalWork6.csproj",
+              "RelativeToolTip": "PracticalWork6.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-30T10:43:04.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Telegram Desktop\\PracticalWork6-WPF-main\\PracticalWork6-WPF-main\\Properties\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "Properties\\Settings.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Telegram Desktop\\PracticalWork6-WPF-main\\PracticalWork6-WPF-main\\Properties\\Settings.Designer.cs",
+              "RelativeToolTip": "Properties\\Settings.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T10:37:12.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Telegram Desktop\\PracticalWork6-WPF-main\\PracticalWork6-WPF-main\\AdminWindow.xaml",
+              "RelativeDocumentMoniker": "AdminWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Telegram Desktop\\PracticalWork6-WPF-main\\PracticalWork6-WPF-main\\AdminWindow.xaml",
+              "RelativeToolTip": "AdminWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-30T08:06:16.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Telegram Desktop\\PracticalWork6-WPF-main\\PracticalWork6-WPF-main\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Telegram Desktop\\PracticalWork6-WPF-main\\PracticalWork6-WPF-main\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:18:46.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Telegram Desktop\\PracticalWork6-WPF-main\\PracticalWork6-WPF-main\\UserWindow.xaml.cs",
+              "RelativeDocumentMoniker": "UserWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Telegram Desktop\\PracticalWork6-WPF-main\\PracticalWork6-WPF-main\\UserWindow.xaml.cs",
+              "RelativeToolTip": "UserWindow.xaml.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAA/wAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:18:46.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LogWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Telegram Desktop\\PracticalWork6-WPF-main\\PracticalWork6-WPF-main\\LogWindow.xaml",
+              "RelativeDocumentMoniker": "LogWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Telegram Desktop\\PracticalWork6-WPF-main\\PracticalWork6-WPF-main\\LogWindow.xaml",
+              "RelativeToolTip": "LogWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-30T06:32:33.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Telegram Desktop\\PracticalWork6-WPF-main\\PracticalWork6-WPF-main\\AdminWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AdminWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Telegram Desktop\\PracticalWork6-WPF-main\\PracticalWork6-WPF-main\\AdminWindow.xaml.cs",
+              "RelativeToolTip": "AdminWindow.xaml.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAkwEMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:18:46.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Telegram Desktop\\PracticalWork6-WPF-main\\PracticalWork6-WPF-main\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Telegram Desktop\\PracticalWork6-WPF-main\\PracticalWork6-WPF-main\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-30T06:33:21.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Telegram Desktop\\PracticalWork6-WPF-main\\PracticalWork6-WPF-main\\Message.cs",
+              "RelativeDocumentMoniker": "Message.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Telegram Desktop\\PracticalWork6-WPF-main\\PracticalWork6-WPF-main\\Message.cs",
+              "RelativeToolTip": "Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:18:46.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Telegram Desktop\\PracticalWork6-WPF-main\\PracticalWork6-WPF-main\\UserWindow.xaml",
+              "RelativeDocumentMoniker": "UserWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Telegram Desktop\\PracticalWork6-WPF-main\\PracticalWork6-WPF-main\\UserWindow.xaml*",
+              "RelativeToolTip": "UserWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-30T07:48:51.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tcp.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Telegram Desktop\\PracticalWork6-WPF-main\\PracticalWork6-WPF-main\\Tcp.cs",
+              "RelativeDocumentMoniker": "Tcp.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Telegram Desktop\\PracticalWork6-WPF-main\\PracticalWork6-WPF-main\\Tcp.cs",
+              "RelativeToolTip": "Tcp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:18:46.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LogWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Telegram Desktop\\PracticalWork6-WPF-main\\PracticalWork6-WPF-main\\LogWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LogWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Telegram Desktop\\PracticalWork6-WPF-main\\PracticalWork6-WPF-main\\LogWindow.xaml.cs",
+              "RelativeToolTip": "LogWindow.xaml.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:18:46.385Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
